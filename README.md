@@ -1,9 +1,19 @@
-### Hi, I'm Magdeline!
-Software Engineer sharing about my journey and learnings in tech<br/>
-Studied [Computer Science) (https://youtu.be/Dd 4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-#learninginpublic in my [digital garden] (https://magdelinehuang.com/)<br/>
-Currently learning about data analytics and [dataviz] (https://pudding.cool/2018/08/pockets/)!<br/>
-<!- GitHub stats from https://github.com/anuraghazra/github-readme-stats ->>
-[![Magdeline's github stats] (https://github-readme-stats.vercel.app/api?username=xsol05&count private=true&show icons=true&theme=radical&hide rank=false)1
-( https://github.com/anuraghazra/github-readme-stats)
+# 👋 Xin chào, tôi là **Đào Công Trí Bảo**
+
+---
+
+## 📌 Giới thiệu
+- 🚀 Bắt đầu hành trình học tập và phát triển dự án từ **Tháng 9, 2025**  
+- 💡 Có niềm đam mê mãnh liệt với lĩnh vực **AI Engineering**, đặc biệt quan tâm đến:  
+  - 🧠 **Natural Language Processing (NLP)**  
+  - 📊 **Machine Learning (ML)**  
+  - 🤖 **Deep Learning (DL)**  
+
+---
+
+## 🌐 Kết nối với tôi
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tbao09x)
+
+---
+
+⭐ Luôn không ngừng học hỏi và sáng tạo để theo đuổi con đường **AI Engineer**.
