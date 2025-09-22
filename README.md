@@ -7,10 +7,10 @@
 🚀 Currently learning about the Python platform and libraries before diving deeper into NLP Artificial Intelligence
 
 ## 🧑‍💻 About Me
-
-<table>
+<div align="center">
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="65%">
 
 ### 🚀 AI Engineer
 
