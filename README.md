@@ -77,5 +77,4 @@
 Feel free to reach out if you want to collaborate on interesting projects or just have a chat about technology!
 
 ---
-
-          ✨  *"Code is like humor. When you have to explain it, it's bad."* - Cory House ✨ 
+✨  *"Code is like humor. When you have to explain it, it's bad."* - Cory House ✨ 
