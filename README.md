@@ -50,15 +50,6 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%">
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</td>
-<td width="50%">
-
 ## 📊 GitHub Stats
 
 <table>
