@@ -64,41 +64,6 @@
 <td width="50%">
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=2)
-
-</div>
-</tr>
-</table>
-
-### 🔥 Contribution Streak
-<table>
-<tr>
-<td width="100%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-### 📊 Detailed Activity
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
-
-</td>
-<td width="50%">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15)
-
-</td>
-</tr>
-</table>
-
-</div>
-### Most Used Languages
 ![Python](https://img.shields.io/badge/Python-96.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-3.8%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 </td>
