@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats
 
-![Le Viet Thanh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
+![Dao Cong Tri Bao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
 
 ### Most Used Languages
 ![Python](https://img.shields.io/badge/Python-96.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
