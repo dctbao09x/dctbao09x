@@ -53,7 +53,7 @@
 <tr>
 <td width="50%">
 
-![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </td>
 <td width="50%">
