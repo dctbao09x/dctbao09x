@@ -7,20 +7,39 @@
 🚀 Currently learning about the Python platform and libraries before diving deeper into NLP Artificial Intelligence
 
 ## 🧑‍💻 About Me
+
 <div align="center">
 <table width="100%">
 <tr>
 <td width="65%">
 
-### 🚀 AI Engineer
+### 🚀 Software Engineer | Data Engineer | AI Engineer
 
 • 🎯 **GPA:** 3.5/4  
-• 🔥 **V-ACT Score:** 850/1200 (Just in grade 11) 
-• 🏫 **IELTS Score:** 6.5/9 (Just in grade 11)   
+• 🔥 **V-ACT Score:** 850/1200 (Just in grade 11)  
+• 🏫 **IELTS Score:** 6.5/9 (Just in grade 11)  
 • 🔬 **Currently:** exploring cutting-edge technologies in AI  
-• 💻 **Passionate about:** AI Engineering and Robotics
+• 💻 **Passionate about:** AI Engineering and Robotics  
 
 ⭐ **Philosophy**
+
+*"Never Too Late to Pursue Your Dreams"*
+
+*I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.*
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ZvaKRPHprGcSd8BfvIrNi80ihuBcdl.png" width="200" height="200" alt="Geometric Animation"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+</div>⭐ **Philosophy**
 
 *"Never Too Late to Pursue Your Dreams"*
 
