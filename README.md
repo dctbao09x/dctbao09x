@@ -37,12 +37,6 @@
 </table>
 </div>
 
-</div>⭐ **Philosophy**
-
-*"Never Too Late to Pursue Your Dreams"*
-
-*I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.*
-
 </td>
 <td width="50%">
 
@@ -90,8 +84,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Visit-blue?logo=facebook)](https://www.facebook.com/tbao09x)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?logo=codeforces)](https://codeforces.com/profile/Tbaoo)  
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:tridaocong@gmail.com)
-
+<div align="center">
 Feel free to reach out if you want to collaborate on interesting projects or just have a chat about technology!
-</div>
----
+
 ✨  *"Code is like humor. When you have to explain it, it's bad."* - Cory House ✨ 
+</div>
