@@ -27,13 +27,15 @@
 
 *I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.*
 
-<br/>
+</td>
+<td width="35%" align="center">
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Animation"/>
 
 </td>
 </tr>
 </table>
+</div>
 </div>⭐ **Philosophy**
 
 *"Never Too Late to Pursue Your Dreams"*
