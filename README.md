@@ -30,8 +30,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Animation"/>
-
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="AI Animation"/>
 </td>
 </tr>
 </table>
