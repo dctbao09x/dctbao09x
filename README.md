@@ -49,6 +49,7 @@
 </td>
 </tr>
 </table>
+
 ## 📊 GitHub Stats
 <table>
 <tr>
@@ -62,7 +63,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dctbao09x&show_icons=true&theme=transparent)
 
 </td>
-<td width="50%">
 </tr>
 
 ## 🛠️ Tech Stack & Tools
