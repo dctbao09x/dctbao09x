@@ -67,17 +67,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🎯 What I Do
-
-• 💻 **Software Engineering:** Building robust and scalable applications  
-• 📊 **Data Engineering:** Designing efficient data pipelines and ETL processes  
-• 🤖 **AI Engineering:** Developing intelligent systems and machine learning models  
-• 📈 **Data Analysis:** Extracting insights from complex datasets  
 
 ## 📫 Let's Connect!
 [![Facebook](https://img.shields.io/badge/Facebook-Visit-blue?logo=facebook)](https://www.facebook.com/tbao09x)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?logo=codeforces)](https://codeforces.com/profile/Tbaoo)  
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:tridaocong@gmail.com)
+
 Feel free to reach out if you want to collaborate on interesting projects or just have a chat about technology!
 
 ---
