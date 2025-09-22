@@ -13,7 +13,7 @@
 <tr>
 <td width="65%">
 
-### 🚀 Software Engineer | Data Engineer | AI Engineer
+### 🚀 AI Engineer
 
 • 🎯 **GPA:** 3.5/4  
 • 🔥 **V-ACT Score:** 850/1200 (Just in grade 11)  
