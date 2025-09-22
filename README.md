@@ -63,18 +63,6 @@
 
 </td>
 <td width="50%">
-### 📈 Contribution Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
-
-</td>
-<td width="50%">
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15)
-
-</td>
-</tr>
-</table>
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=2)
