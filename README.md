@@ -28,14 +28,15 @@
 *I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.*
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="300" alt="AI Animation"/>
+<img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="150" height="150" alt="Coding Animation"/>
 
 </td>
 </tr>
 </table>
 </div>
+
 </div>⭐ **Philosophy**
 
 *"Never Too Late to Pursue Your Dreams"*
