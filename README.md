@@ -65,25 +65,6 @@
 <td width="50%">
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=2)
-
-### 📊 Detailed Stats
-<table align="center">
-<tr>
-<td>
-
-**📈 Total Contributions:** ![](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
-**⭐ Total Stars Earned:** Dynamic  
-**🔀 Total Forks:** Dynamic  
-**📦 Total Repositories:** Dynamic  
-**📝 Total Commits:** Dynamic  
-
-</td>
-</tr>
-</table>
-</div>
-
-### Most Used Languages
 ![Python](https://img.shields.io/badge/Python-96.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-3.8%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 </td>
