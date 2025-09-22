@@ -61,7 +61,33 @@
 
 ## 📊 GitHub Stats
 
-![Dao Cong Tri Bao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
+<table>
+<tr>
+<td width="50%">
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</td>
+<td width="50%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+<table>
+<tr><td><b>Dao Cong Tri Bao's GitHub Stats</b></td></tr>
+<tr><td>
+
+| Metric | Value |
+|--------|-------|
+| ⭐ Total Stars Earned | 0 |
+| 🔄 Total Commits (last year) | 0 |
+| 📝 Total PRs | 0 |
+| 🐛 Total Issues | 0 |
+| 🤝 Contributed to (last year) | 0 |
+
+</td></tr>
+</table>
+</div>
 
 ### Most Used Languages
 ![Python](https://img.shields.io/badge/Python-96.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
