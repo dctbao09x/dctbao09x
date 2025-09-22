@@ -1,5 +1,4 @@
-# Chào mừng đến với trang cá nhân của tôi.
-# 👋 Xin chào, tôi là **Đào Công Trí Bảo**
+# 👋🏻👋🏻 WELCOME TO MY PAGE. My name is Dao Cong Tri Bao.
 
 ---
 
