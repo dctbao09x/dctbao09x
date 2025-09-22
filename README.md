@@ -63,9 +63,10 @@
 </td>
 <td width="50%">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=6)
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=2)
 
-</td>
+</div>
 </tr>
 </table>
 
