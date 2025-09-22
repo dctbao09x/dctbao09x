@@ -49,12 +49,6 @@
 </td>
 </tr>
 </table>
-
-## 📊 GitHub Stats
-
-Thought for 3sHere's the updated GitHub Stats section with GitHub streak in a separate, more detailed table:
-
-```markdown
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -103,8 +97,6 @@ Thought for 3sHere's the updated GitHub Stats section with GitHub streak in a se
 </table>
 
 </div>
-```
-
 ### Most Used Languages
 ![Python](https://img.shields.io/badge/Python-96.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-3.8%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
