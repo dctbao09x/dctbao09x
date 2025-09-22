@@ -28,9 +28,9 @@
 *I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.*
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150" height="150" alt="AI Animation"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="300" alt="AI Animation"/>
 
 </td>
 </tr>
