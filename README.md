@@ -63,7 +63,7 @@
 
 </td>
 <td width="50%">
-
+</div>
 ## 🛠️ Tech Stack & Tools
 ### Most Used Languages
 ![Python](https://img.shields.io/badge/Python-96.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
