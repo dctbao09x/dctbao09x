@@ -59,7 +59,7 @@
 </td>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dctbao09x)](https://github.com/dctbao09x/github-readme-stats)
 
 </td>
 <td width="50%">
