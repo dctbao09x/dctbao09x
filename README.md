@@ -63,8 +63,8 @@
 ![Le Viet Thanh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
-
+![Python](https://img.shields.io/badge/Python-96.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-3.8%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 </td>
 </tr>
 </table>
