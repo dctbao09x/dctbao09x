@@ -15,7 +15,8 @@
 ### 🚀 AI Engineer
 
 • 🎯 **GPA:** 3.5/4  
-• 🔥 **V-ACT Score:** 850/1200 (Just in grade 11)   
+• 🔥 **V-ACT Score:** 850/1200 (Just in grade 11) 
+• 🏫 **IELTS Score:** 6.5/9 (Just in grade 11)   
 • 🔬 **Currently:** exploring cutting-edge technologies in AI  
 • 💻 **Passionate about:** AI Engineering and Robotics
 
@@ -77,4 +78,4 @@ Feel free to reach out if you want to collaborate on interesting projects or jus
 
 ---
 
-⭐ *"Code is like humor. When you have to explain it, it's bad."* - Cory House ⭐
+          ✨  *"Code is like humor. When you have to explain it, it's bad."* - Cory House ✨ 
