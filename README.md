@@ -1,3 +1,4 @@
+# Chào mừng đến với trang web của tôi.
 # 👋 Xin chào, tôi là **Đào Công Trí Bảo**
 
 ---
