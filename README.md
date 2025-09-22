@@ -91,6 +91,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:tridaocong@gmail.com)
 
 Feel free to reach out if you want to collaborate on interesting projects or just have a chat about technology!
-
+</div>
 ---
 ✨  *"Code is like humor. When you have to explain it, it's bad."* - Cory House ✨ 
