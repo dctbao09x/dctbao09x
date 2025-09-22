@@ -59,13 +59,41 @@
 </td>
 <td width="50%">
 
-## 📊 GitHub Stats
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 </td>
 <td width="50%">
+### 📈 Contribution Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
+
+</td>
+<td width="50%">
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15)
+
+</td>
+</tr>
+</table>
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=2)
+
+### 📊 Detailed Stats
+<table align="center">
+<tr>
+<td>
+
+**📈 Total Contributions:** ![](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
+**⭐ Total Stars Earned:** Dynamic  
+**🔀 Total Forks:** Dynamic  
+**📦 Total Repositories:** Dynamic  
+**📝 Total Commits:** Dynamic  
+
+</td>
+</tr>
+</table>
+</div>
 
 ### Most Used Languages
 ![Python](https://img.shields.io/badge/Python-96.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
