@@ -54,7 +54,7 @@
 </td>
 <td width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dctbao09x&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dctbao09x&show_icons=true&theme=radical)
 
 </td>
 </tr>
@@ -63,8 +63,7 @@
 ## 🛠️ Tech Stack & Tools
 
 ### Most Used Languages
-![Python](https://img.shields.io/badge/Python-96.2%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-3.8%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dctbao09x&layout=compact&theme=radical)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
