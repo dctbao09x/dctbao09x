@@ -4,7 +4,7 @@
 
 ⭐ Welcome to my GitHub profile! I am a student at Phu Nhuan High School, Ho Chi Minh City.
 
-🚀 Currently learning about the Python, C++ platforms before diving deeper into Robotics engineering
+🚀 Currently learning about Python and C++ platforms before diving deeper into Robotics engineering
 
 ## 🧑‍💻 About Me
 
@@ -13,7 +13,7 @@
 <tr>
 <td width="65%">
 
-### 🚀 AI Engineer
+### 🚀 AI/Robotics Engineer
 
 • 🎯 **GPA:** 3.5/4  
 • 🔥 **V-ACT Score:** 850/1200 (Just in grade 11)  
