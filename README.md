@@ -4,7 +4,7 @@
 
 ⭐ Welcome to my GitHub profile! I am a student at Phu Nhuan High School, Ho Chi Minh City.
 
-🚀 Currently learning about the Python platform and libraries before diving deeper into NLP Artificial Intelligence
+🚀 Currently learning about the Python, C++ platforms before diving deeper into Robotics engineering
 
 ## 🧑‍💻 About Me
 
