@@ -15,9 +15,6 @@
 
 ### 🚀 AI/Robotics Engineer
 
-• 🎯 **GPA:** 3.5/4  
-• 🔥 **V-ACT Score:** 850/1200 (Just in grade 11)  
-• 🏫 **IELTS Score:** 6.5/9 (Just in grade 11)  
 • 🔬 **Currently:** exploring cutting-edge technologies in AI  
 • 💻 **Passionate about:** AI Engineering and Robotics  
 
@@ -43,22 +40,6 @@
 </td>
 </tr>
 </table>
-
-## 📊 GitHub Stats
-<table>
-<tr>
-<td width="50%">
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</td>
-<td width="50%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dctbao09x&show_icons=true&theme=radical)
-
-</td>
-</tr>
-<table>
 
 ## 🛠️ Tech Stack & Tools
 
