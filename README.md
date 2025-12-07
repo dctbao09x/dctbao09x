@@ -2,23 +2,24 @@
 
 ## 🌱 Introduction
 
-⭐ Welcome to my GitHub profile! I am a student at Phu Nhuan High School, Ho Chi Minh City.
+⭐ Welcome to my GitHub profile! I am a high school student in Vietnam with a focused passion for the field of robotics.
 
-🚀 Currently learning about Python and C++ platforms before diving deeper into Robotics engineering
-
-## 🧑‍💻 About Me
+## 💻 Skills and Projects (About Me)
 
 <div align="center">
 <table width="100%">
 <tr>
 <td width="65%">
+  
+• Skills: ROS (Robot Operating System), Python.
 
-### 🚀 AI/Robotics Engineer
+• Experience: Completed several mini robotic projects.
 
-• 🔬 **Currently:** exploring cutting-edge technologies in AI  
-• 💻 **Passionate about:** AI Engineering and Robotics  
+• Goal: Mastering ROS/Python for complex, innovative robot development.
 
-⭐ **Philosophy**
+• Field: Military Robot and Assistant Robot.
+
+## ⭐ **Philosophy**
 
 *"Never Too Late to Pursue Your Dreams"*
 
@@ -46,6 +47,8 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22313E?style=for-the-badge&logo=gear&logoColor=white)
+
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -56,6 +59,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🚀 What am I looking for? 
+I'm ready to a contribution in any robot project and techinical startup. I'm ready to work a few hours per week. My main motive is to grow something big long-term.
 
 ## 📫 Let's Connect!
 [![Facebook](https://img.shields.io/badge/Facebook-Visit-blue?logo=facebook)](https://www.facebook.com/dctbao09x)  
