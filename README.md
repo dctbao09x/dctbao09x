@@ -11,7 +11,7 @@
 <tr>
 <td width="65%">
   
-• Skills: ROS (Robot Operating System), Python.
+• Skills: ROS (Robot Operating System), C++, Python.
 
 • Experience: Completed several mini robotic projects.
 
