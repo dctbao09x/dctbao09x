@@ -23,7 +23,7 @@
 
 *"Never Too Late to Pursue Your Dreams"*
 
-*I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.*
+*I believe every generation has its own way of serving its country.Mine is through robotics, science, and engineering. I explore intelligent systems with the goal of advancing scientific progress, strengthening national resilience, and contributing to a better future for humanity.*
 
 </td>
 <td width="35%" align="center" valign="middle">
